@@ -3,4 +3,3 @@
     public int MyNumber { get; set; }
 
 }
-
